@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.14a0d715.chunk.css",
-    "main.js": "/static/js/main.66dfc573.chunk.js",
-    "main.js.map": "/static/js/main.66dfc573.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.933364b2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.933364b2.js.map",
-    "static/js/2.698f60de.chunk.js": "/static/js/2.698f60de.chunk.js",
-    "static/js/2.698f60de.chunk.js.map": "/static/js/2.698f60de.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1edc0faecd8418601e39402f3684f475.js": "/precache-manifest.1edc0faecd8418601e39402f3684f475.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.14a0d715.chunk.css.map": "/static/css/main.14a0d715.chunk.css.map",
-    "static/js/2.698f60de.chunk.js.LICENSE.txt": "/static/js/2.698f60de.chunk.js.LICENSE.txt",
-    "static/media/PoyoyoVibin.png": "/static/media/PoyoyoVibin.29cf710c.png",
-    "static/media/index.css": "/static/media/exljbris_-_museo-700-webfont.9faccc7f.woff2",
-    "static/media/Item.css": "/static/media/wip_preview.7101bec7.png",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/Menu.css": "/static/media/menu_open.affef7e0.svg"
+    "main.css": "/homepage/static/css/main.1bc2afc4.chunk.css",
+    "main.js": "/homepage/static/js/main.e04901de.chunk.js",
+    "main.js.map": "/homepage/static/js/main.e04901de.chunk.js.map",
+    "runtime-main.js": "/homepage/static/js/runtime-main.3ed86e83.js",
+    "runtime-main.js.map": "/homepage/static/js/runtime-main.3ed86e83.js.map",
+    "static/js/2.698f60de.chunk.js": "/homepage/static/js/2.698f60de.chunk.js",
+    "static/js/2.698f60de.chunk.js.map": "/homepage/static/js/2.698f60de.chunk.js.map",
+    "index.html": "/homepage/index.html",
+    "precache-manifest.0d5d39663f1a7d6e118f47c7bf779cb3.js": "/homepage/precache-manifest.0d5d39663f1a7d6e118f47c7bf779cb3.js",
+    "service-worker.js": "/homepage/service-worker.js",
+    "static/css/main.1bc2afc4.chunk.css.map": "/homepage/static/css/main.1bc2afc4.chunk.css.map",
+    "static/js/2.698f60de.chunk.js.LICENSE.txt": "/homepage/static/js/2.698f60de.chunk.js.LICENSE.txt",
+    "static/media/PoyoyoVibin.png": "/homepage/static/media/PoyoyoVibin.29cf710c.png",
+    "static/media/index.css": "/homepage/static/media/exljbris_-_museo-700-webfont.9faccc7f.woff2",
+    "static/media/Item.css": "/homepage/static/media/wip_preview.7101bec7.png",
+    "static/media/logo.svg": "/homepage/static/media/logo.5d5d9eef.svg",
+    "static/media/Menu.css": "/homepage/static/media/menu_open.affef7e0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.933364b2.js",
+    "static/js/runtime-main.3ed86e83.js",
     "static/js/2.698f60de.chunk.js",
-    "static/css/main.14a0d715.chunk.css",
-    "static/js/main.66dfc573.chunk.js"
+    "static/css/main.1bc2afc4.chunk.css",
+    "static/js/main.e04901de.chunk.js"
   ]
 }
