@@ -1,0 +1,109 @@
+.menu {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  height: 100vh;
+  width: 300px;
+  background-color: #fcfcfc;
+  box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.3);
+  z-index: 10;
+  /*transition: transform .3s cubic-bezier(0, .52, 0, 1);*/
+}
+
+.menu.hide {
+  transform: translate3d(-100vw, 0, 0);
+  transition: transform .2s ease-in;
+}
+ 
+.menu.show {
+  transform: translate3d(0vw, 0, 0);
+  overflow: hidden;
+  transition: transform .3s cubic-bezier(0, .52, 0, 1);
+}
+
+.menuButton {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  width: 35px;
+  height: 35px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 1000;
+  opacity: 0.8;
+  transition: 0.2s;
+}
+
+.menuButton:hover {
+  cursor: pointer;
+  opacity: 0.9;
+  transform: scale(1.05);
+  transition: 0.2s;
+}
+
+.menuButton.hide {
+  background-image: url('./img/menu.svg');
+}
+
+.menuButton.show {
+  background-image: url('./img/menu_open.svg');
+}
+
+/*.menuButton:active {
+    background-image: url('./img/menu_open.svg');
+}*/
+
+.outside {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+}
+
+.outside.hide {
+  display: none;   
+}
+
+.outside.show {
+  display: block;
+}
+
+.icon {
+  height: 75px;
+  border: #ff88bb solid 1.5px;
+  padding: 1px;
+  margin-top: 24vh;
+}
+
+.menuTitle {
+  margin: 2px;
+  font-family: 'Poiret One', cursive;
+  font-weight: 700;
+  font-size: 4vh;
+  letter-spacing: 2.5px;
+}
+
+.menuText {
+  margin: 2px 15px 2px 15px;
+  font-family: 'museo300';
+  font-size: 2vh
+}
+
+.menuItems {
+  width: 100%;
+  margin: auto;
+  color: #222222;
+  position: fixed;
+  bottom: 5vh;
+  line-height: 5vh;
+  font-family: 'museo300';
+  font-size: 2vh
+}
+
+.item {
+  margin: -1vh 10px 0vh 10px;
+  /*pointer-events: none;*/
+}

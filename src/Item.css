@@ -1,0 +1,43 @@
+.thumbnail {
+  position: relative;
+  margin: auto;
+  opacity: 0.9;
+  height: 12vw;
+  width: 12vw;
+  top: -3vw;
+  transition: 0.2s;
+}
+
+.thumbnail:hover {
+  opacity: 1;
+  transition: 0.2s;
+  transform: scale(1.085);
+}
+
+.invisLink {
+  display: block;
+  height: 12vw;
+  width: 12vw;
+}
+
+.gacha {
+  background-image: url('./img/gacha.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.gacha:hover {
+  background-image: url('./img/gacha_preview.png');
+}
+
+.wip {
+  background-image: url('./img/wip.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.wip:hover {
+  background-image: url('./img/wip_preview.png');
+}
