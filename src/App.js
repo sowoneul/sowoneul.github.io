@@ -79,6 +79,7 @@ class App extends React.Component {
                 position: 'absolute',
                 width: '100%',
                 height: '8.5vw',
+                minHeight: '50px',
                 top: 0,
                 borderBottom: '1px solid rgb(255, 136, 187, .5)'
               }}

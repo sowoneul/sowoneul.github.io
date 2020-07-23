@@ -13,6 +13,16 @@
   }
 }
 
+@media (max-width: 425px) {
+  .ml11 .text-wrapper {
+    top: 10px !important;
+  }
+
+  .ml11 {
+    font-size: 1.25em !important;
+  }
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -77,6 +87,7 @@
 
 .head {
   height: 8.5vw;
+  min-height: 50px;
   width: 100%;
   box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.2);
 }
