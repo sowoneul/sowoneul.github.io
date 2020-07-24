@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0ebda5c3.chunk.css",
-    "main.js": "/static/js/main.d3d035b8.chunk.js",
-    "main.js.map": "/static/js/main.d3d035b8.chunk.js.map",
+    "main.css": "/static/css/main.ac1706ea.chunk.css",
+    "main.js": "/static/js/main.b837a3f7.chunk.js",
+    "main.js.map": "/static/js/main.b837a3f7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.933364b2.js",
     "runtime-main.js.map": "/static/js/runtime-main.933364b2.js.map",
     "static/js/2.698f60de.chunk.js": "/static/js/2.698f60de.chunk.js",
     "static/js/2.698f60de.chunk.js.map": "/static/js/2.698f60de.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.389a5c65a7690333c568ab84c80eee65.js": "/precache-manifest.389a5c65a7690333c568ab84c80eee65.js",
+    "precache-manifest.9ef5578ad39f34386e900d53a4662230.js": "/precache-manifest.9ef5578ad39f34386e900d53a4662230.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0ebda5c3.chunk.css.map": "/static/css/main.0ebda5c3.chunk.css.map",
+    "static/css/main.ac1706ea.chunk.css.map": "/static/css/main.ac1706ea.chunk.css.map",
     "static/js/2.698f60de.chunk.js.LICENSE.txt": "/static/js/2.698f60de.chunk.js.LICENSE.txt",
     "static/media/PoyoyoVibin.png": "/static/media/PoyoyoVibin.29cf710c.png",
     "static/media/index.css": "/static/media/exljbris_-_museo-700-webfont.9faccc7f.woff2",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.933364b2.js",
     "static/js/2.698f60de.chunk.js",
-    "static/css/main.0ebda5c3.chunk.css",
-    "static/js/main.d3d035b8.chunk.js"
+    "static/css/main.ac1706ea.chunk.css",
+    "static/js/main.b837a3f7.chunk.js"
   ]
 }
