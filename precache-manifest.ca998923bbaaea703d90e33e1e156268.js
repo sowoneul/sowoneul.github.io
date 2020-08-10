@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31fabae18cf37ff532b3d8e0c29df7aa",
+    "revision": "f7115907ade919eaac7dfa3fc38197d8",
     "url": "/index.html"
   },
   {
-    "revision": "0781e00f616ac84b67fa",
-    "url": "/static/css/main.6b85eac2.chunk.css"
+    "revision": "835d8739e06332d65b11",
+    "url": "/static/css/main.aebb07c0.chunk.css"
   },
   {
     "revision": "192561ea990c9c6127ed",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.698f60de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0781e00f616ac84b67fa",
-    "url": "/static/js/main.3686a2da.chunk.js"
+    "revision": "835d8739e06332d65b11",
+    "url": "/static/js/main.b463fe1e.chunk.js"
   },
   {
     "revision": "7fd8f8b23b79231f3b83",
@@ -56,8 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/gacha.93f872fd.png"
   },
   {
-    "revision": "bd2ab779e49c4d12cc60a36a85d94ec4",
-    "url": "/static/media/gacha_preview.bd2ab779.png"
+    "revision": "1ae00103778b3d750b54988d0df0499e",
+    "url": "/static/media/gacha_preview.1ae00103.png"
+  },
+  {
+    "revision": "a2804bb423e8b1daf8e3be6123ee0120",
+    "url": "/static/media/guide_preview.a2804bb4.png"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
