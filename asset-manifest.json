@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.aebb07c0.chunk.css",
-    "main.js": "/static/js/main.fbf3614e.chunk.js",
-    "main.js.map": "/static/js/main.fbf3614e.chunk.js.map",
+    "main.js": "/static/js/main.79d2b838.chunk.js",
+    "main.js.map": "/static/js/main.79d2b838.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.933364b2.js",
     "runtime-main.js.map": "/static/js/runtime-main.933364b2.js.map",
-    "static/js/2.698f60de.chunk.js": "/static/js/2.698f60de.chunk.js",
-    "static/js/2.698f60de.chunk.js.map": "/static/js/2.698f60de.chunk.js.map",
+    "static/js/2.0d9321c0.chunk.js": "/static/js/2.0d9321c0.chunk.js",
+    "static/js/2.0d9321c0.chunk.js.map": "/static/js/2.0d9321c0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.277480da90716d47599880515a44d149.js": "/precache-manifest.277480da90716d47599880515a44d149.js",
+    "precache-manifest.a67984457b179cc82cb1988a9ea36957.js": "/precache-manifest.a67984457b179cc82cb1988a9ea36957.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.aebb07c0.chunk.css.map": "/static/css/main.aebb07c0.chunk.css.map",
-    "static/js/2.698f60de.chunk.js.LICENSE.txt": "/static/js/2.698f60de.chunk.js.LICENSE.txt",
+    "static/js/2.0d9321c0.chunk.js.LICENSE.txt": "/static/js/2.0d9321c0.chunk.js.LICENSE.txt",
     "static/media/PoyoyoVibin.png": "/static/media/PoyoyoVibin.29cf710c.png",
     "static/media/index.css": "/static/media/exljbris_-_museo-700-webfont.9faccc7f.woff2",
     "static/media/Item.css": "/static/media/wip_preview.7101bec7.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.933364b2.js",
-    "static/js/2.698f60de.chunk.js",
+    "static/js/2.0d9321c0.chunk.js",
     "static/css/main.aebb07c0.chunk.css",
-    "static/js/main.fbf3614e.chunk.js"
+    "static/js/main.79d2b838.chunk.js"
   ]
 }
