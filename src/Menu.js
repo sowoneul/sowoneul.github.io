@@ -48,16 +48,12 @@ class Menu extends React.Component {
 	            		a <a href='https://en.wikipedia.org/wiki/BanG_Dream!' target='_blank'>BanG Dream!</a> fan making projects for fun
 	            	</div>
 	            	<div className='menuItems'>
-	            		sowon#5336
 	            		<br/>
 	            		<a href='https://bestdori.com/community/user/Sowoneul' target='_blank'>
 	            			<img className='item' title='Bestdori Profile' src={Bestdori} height='35px'/>
 	            		</a>
 	            		<a href='https://github.com/sowoneul' target='_blank'>
 	            			<img className='item' title='Github' src={Github} height='35px' />
-	            		</a>
-	            		<a href='https://anilist.co/user/Sowon/' target='_blank'>
-	            			<img className='item' title='AniList' src={Anilist} height='35px' />
 	            		</a>
 	            		<a href='https://discord.gg/bangdream' target='_blank'>
 	            			<img className='item' title='BanG Dream! Official Discord Server' src={Discord} height='35px' />
